@@ -6,3 +6,5 @@ median(x)
 mean(x)
 mad(x)
 str(x)
+
+#Bee is a cutie
